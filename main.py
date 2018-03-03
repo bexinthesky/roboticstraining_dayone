@@ -49,3 +49,11 @@ def start_game():
     print 'You were walking along one day, when you heard a faint noise from overhead. You looked up and a giant %s was floating in the sky. You panicked, because well, why is a giant %s floating in the sky? Seconds later, it started to %s You started to run in fear, but it was gaining on you. Your only hope was a %s' %(noun1, noun1, verb1, noun2)
     
 start_game()
+
+# alternative version from adam
+# def startGame(noun1, noun2, verb1):
+#  print('You were walking along one day, when you heard a faint noise from overhead. You looked up and a giant ' + noun1 + ' was floating in the sky. You panicked, because well, why is a giant ' + noun1 + ' floating in the sky? Seconds later, it started to '+ verb1 + ' You started to run in fear, but it was gaining on you. Your only hope was a' + noun2)
+
+
+
+#startGame('hippopotomas', 'bat', 'run')
